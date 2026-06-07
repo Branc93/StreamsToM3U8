@@ -1,1 +1,5 @@
-Error: HTTPSConnectionPool(host='tvmi.mt', port=443): Max retries exceeded with url: /live/2 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7ff594c546b0>, 'Connection to tvmi.mt timed out. (connect timeout=15)'))
+Success! Generated link with bouncer bypass.
+TVM Malta" group-title="Malta", TVM Malta
+#EXTVLCOPT:http-referrer=https://tvmi.mt/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
+https://dist7.tvmi.mt/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjQ3NjQ0ODI0LCJhdWQiOiI2NC4yMzYuMTYxLjE3IiwiZXhwIjoxNzgwODc4NDk0fQ.sD9NhCO9oDl90dnyw_P8Wo8pIu2AR9ZZSNL_zYO5-Yg/live/2/master.m3u8|Referer=https://tvmi.mt/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36
